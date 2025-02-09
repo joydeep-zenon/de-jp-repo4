@@ -1,0 +1,5 @@
+displayName: JOY_DE_GIT_NEW_SOLUTION_V2
+projectKey: JOY_DE_GIT_NEW_SOLUTION_V2
+version: 1.0.0
+modules:
+- name: common
