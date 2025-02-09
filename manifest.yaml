@@ -1,8 +1,0 @@
-displayName: NEW_SOLUTION_GIT_V2
-projectKey: NEW_SOLUTION_GIT_V2
-version: 1.0.0
-modules:
-- fileSearchPaths:
-  - code
-  - taxonomy
-  name: common
